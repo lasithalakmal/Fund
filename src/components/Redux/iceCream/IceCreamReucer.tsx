@@ -1,7 +1,5 @@
 import { BUY_ICECREAM } from "./IceCreamTypes"
 
-console.log('b ice');
-
 const initialState = {
     numberOfIceCreams: 15
 }

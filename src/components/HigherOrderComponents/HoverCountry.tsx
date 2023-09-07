@@ -3,7 +3,6 @@ import React, { useState } from 'react'
 import WithCount from './withCounter';
 
 function HoverCountry(props:any) {
-
     return (
         <View>
             <TextInput onChange={props.incrementCount} style={{backgroundColor:'#eee'}} />
